@@ -1,6 +1,25 @@
 import "./App.css";
 
+import {
+  Area,
+  Bar,
+  Calendar,
+  ColorMapping,
+  ColorPicker,
+  Customers,
+  Ecommerce,
+  Editor,
+  Employees,
+  Financial,
+  Kanban,
+  Line,
+  Orders,
+  Pie,
+  Pyramid,
+  Stacked,
+} from "./pages";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Footer, Navbar, Sidebar, ThemeSettings } from "./components";
 import React, { useEffect } from "react";
 
 import { FiSettings } from "react-icons/fi";
