@@ -39,7 +39,8 @@ module.exports = {
         590: "590px",
       },
       backgroundImage: {
-        "hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+        "hero-pattern":
+          "url('https://www.techarcis.com/wp-content/uploads/2017/03/inner_banner11.jpg')",
       },
     },
   },
